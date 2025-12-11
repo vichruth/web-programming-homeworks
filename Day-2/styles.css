@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+    }
+
+    h1 {
+    text-align: center;
+    color: #df0606;
+    text-decoration: underline;
+    font-size: 45px;
+    }
+
+    .p1 {
+    font-size: 16px;
+    color: #ec0546;
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: overline;
+    }
+
+    nav {
+    text-align: center;
+    }
+img{
+    border: 10px solid black;
+}
+
+#id1{
+    font-size: 30px;
+    color: green;
+}
+p{
+    font-size: 10px;
+    color: purple;
+    text-decoration: underline;
+}
+.c1{
+    font-style: italic;
+    color: blue;
+}
